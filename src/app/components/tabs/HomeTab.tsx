@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 import type { ComponentType } from 'react';
 import { Download, Cloud, Zap, Lock, Terminal, Shield, ShieldCheck } from 'lucide-react';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
@@ -77,8 +77,8 @@ const about1 = tr(
     "Ingénieur Cloud et Infrastructure et étudiant en Mastère Systèmes, Réseaux et Cloud (ESGI Paris), installé en France. Je conçois des infrastructures AWS sécurisées et économiques : applications trois niveaux, point d'entrée unique et protégé, et supervision, avec la sécurité dès la conception."
 );
 const about2 = tr(
-    "I'm moving into DevSecOps, with a focus on infrastructure as code, CI/CD pipelines and cloud security. I'm looking for a work-study position (1 week at school, 3 weeks in the company).",
-    "Je me spécialise en DevSecOps, avec un accent sur l'Infrastructure as Code, les pipelines CI/CD et la sécurité cloud. Je recherche une alternance (1 semaine école, 3 semaines entreprise)."
+    "I'm moving into DevSecOps, with a focus on infrastructure as code, CI/CD pipelines and cloud security. I'm looking for a work-study internship (1 week at school, 3 weeks in the company).",
+    "Je me spécialise en DevSecOps, avec un accent sur l'Infrastructure as Code, les pipelines CI/CD et la sécurité cloud. Je recherche un stage alterné (1 semaine école, 3 semaines entreprise)."
 );
 
 export default function HomeTab() {
