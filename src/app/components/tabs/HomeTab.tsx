@@ -73,12 +73,12 @@ const skillCategories: { icon: Icon; title: L; skills: { name: string | L; icon:
 ];
 
 const about1 = tr(
-    "Cloud & Infrastructure Engineer and Systems, Networks and Cloud Master's student (ESGI Paris), based in France. I build secure, cost-aware AWS infrastructure: three-tier applications, a protected single entry point, and monitoring, with security by design.",
-    "Ingénieur Cloud et Infrastructure et étudiant en Mastère Systèmes, Réseaux et Cloud (ESGI Paris), installé en France. Je conçois des infrastructures AWS sécurisées et économiques : applications trois niveaux, point d'entrée unique et protégé, et supervision, avec la sécurité dès la conception."
+    "Cloud & Infrastructure Engineer, studying for a Master's in Systems, Networks and Cloud at ESGI Paris. I design, automate and secure cloud infrastructure, with a DevOps approach and security built in from the start.",
+    "Ingénieur Cloud et Infrastructure, en Mastère Systèmes, Réseaux et Cloud à l'ESGI Paris. Je conçois, automatise et sécurise des infrastructures cloud, avec une approche DevOps et la sécurité intégrée dès la conception."
 );
 const about2 = tr(
-    "I'm moving into DevSecOps, with a focus on infrastructure as code, CI/CD pipelines and cloud security. I'm looking for a work-study internship (1 week at school, 3 weeks in the company).",
-    "Je me spécialise en DevSecOps, avec un accent sur l'Infrastructure as Code, les pipelines CI/CD et la sécurité cloud. Je recherche un stage alterné (1 semaine école, 3 semaines entreprise)."
+    "My areas: AWS, infrastructure as code, CI/CD pipelines, containers and monitoring. I'm looking for a work-study internship (1 week at school, 3 weeks in the company) to keep growing towards DevSecOps.",
+    "Mes domaines : AWS, Infrastructure as Code, pipelines CI/CD, conteneurs et supervision. Je recherche un stage alterné (1 semaine école, 3 semaines entreprise) pour continuer à progresser vers le DevSecOps."
 );
 
 export default function HomeTab() {
