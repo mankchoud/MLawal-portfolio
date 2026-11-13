@@ -77,8 +77,8 @@ const about1 = tr(
     "Ingénieur Cloud et Infrastructure, en Mastère Systèmes, Réseaux et Cloud à l'ESGI Paris. Je conçois, automatise et sécurise des infrastructures cloud, avec une approche DevOps et la sécurité intégrée dès la conception."
 );
 const about2 = tr(
-    "My areas: AWS, infrastructure as code, CI/CD pipelines, containers and monitoring. I'm looking for a work-study internship (1 week at school, 3 weeks in the company) to keep growing towards DevSecOps.",
-    "Mes domaines : AWS, Infrastructure as Code, pipelines CI/CD, conteneurs et supervision. Je recherche un stage alterné (1 semaine école, 3 semaines entreprise) pour continuer à progresser vers le DevSecOps."
+    "My areas: AWS, infrastructure as code, CI/CD pipelines, containers and monitoring. I'm looking for a work-study internship (1 week at school, 3 weeks in the company) to keep growing towards DevSecOps and cloud security.",
+    "Mes domaines : AWS, Infrastructure as Code, pipelines CI/CD, conteneurs et supervision. Je recherche un stage alterné (1 semaine école, 3 semaines entreprise) pour continuer à progresser vers le DevSecOps et la sécurité cloud."
 );
 
 export default function HomeTab() {
